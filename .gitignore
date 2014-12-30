@@ -1,0 +1,15 @@
+.DS_Store
+.Rhistory
+/incoming
+/outgoing
+/graphs
+forwardtest_graph.xlsx
+data_list.csv
+test.csv
+projectttt.xlsx
+Data List Notes
+updated_set.xlsx
+updated_set_run.csv
+codex.r
+scoringLogic.R
+trained_models_yequalsfx.rData
